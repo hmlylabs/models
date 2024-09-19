@@ -1,4 +1,4 @@
-module github.com/hmly-tech/models
+module github.com/hmlylabs/models
 
 go 1.20
 
